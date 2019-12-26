@@ -1,4 +1,4 @@
-#Here is a list of my favourite activities:
+# Here is a list of my favourite activities:
 - Biking
 - Hiking
 - Camping
